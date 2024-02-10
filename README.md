@@ -1,4 +1,4 @@
 # task
-this is my first git repository.
+This is my First Git Repository.
 <br>
 Author-Shruti Anand
